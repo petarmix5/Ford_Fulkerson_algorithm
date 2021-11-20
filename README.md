@@ -8,8 +8,6 @@ Za pokretanje je potrebno instalirati mpi4py.
 Prikazana je usporedba distribuiranog Ford Fulkerson algoritma i regularnog. Pokrenite program i saznajte koji je pristup brži.
 
 Za instalaciju je potrebno:
-**$ pip install mpi4py**
-
-Za pokretanje programa:
+**$ pip install mpi4py*
 
 
